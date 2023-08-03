@@ -1,3 +1,3 @@
-# crawling_practice
+# crawling
 
-크롤링 연습용 코드들이 모인 곳입니다.
+크롤링 코드들입니다.
